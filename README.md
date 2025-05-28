@@ -7,7 +7,7 @@ This project focuses on analyzing sales data to derive actionable insights using
 - `Product Affinity Analysis`: SQL is used to identify products that are frequently sold together, providing insights for cross-selling opportunities.
 - `Geographical Analysis`: The project includes a geographical breakdown of sales, identifying top-performing cities within specific countries using SQL.
 - `Visualization`: Tableau is utilized to create interactive dashboards that visualize key insights from the SQL analysis, making it easier to understand and communicate the results.
-## Screeshots
+## Screenshots
 ![Dashboard Screenshot 1](./SalesDashboard1.png)
 ![Dashboard Screenshot 2](./SalesDashboard2.png)
 ## Tools Used
